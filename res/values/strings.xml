@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">PharmEasy</string>
+    <string name="lbl_splash">Splash</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_label">Label</string>
+    <string name="lbl_pack_size">Pack Size</string>
+    <string name="lbl_manufacturer">Mfd By</string>
+    <string name="lbl_mrp">MRP</string>
+    <string name="lbl_colon">:</string>
+
+</resources>
